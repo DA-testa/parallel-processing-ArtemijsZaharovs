@@ -1,5 +1,5 @@
 # python3
-
+#221RDC035, Artemijs Zaharovs, 18.gr.
 def parallel_processing(n, m, data):
     
     str = [(0, i) for i in range(n)]
